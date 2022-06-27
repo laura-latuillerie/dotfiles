@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = laura.latuillerie@gmail.com
+	name = Laura Latuillerie
